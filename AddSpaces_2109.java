@@ -1,4 +1,4 @@
-class AddSpaces {
+class AddSpaces_2109 {
     //T. C - O(N), S. C - O(N)
     public String addSpaces(String s, int[] spaces) {
         StringBuilder res = new StringBuilder();
