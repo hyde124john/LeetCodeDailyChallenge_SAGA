@@ -1,4 +1,4 @@
-class Solution {
+class CheckIfExist_1346 {
     public boolean checkIfExist(int[] arr) {
         int n=arr.length;
         Map<Integer, Integer> map=new HashMap();
