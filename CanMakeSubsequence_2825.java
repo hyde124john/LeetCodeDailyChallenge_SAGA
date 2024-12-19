@@ -1,4 +1,4 @@
-class Solution {
+class CanMakeSubsequence_2825. {
     public boolean canMakeSubsequence(String str1, String str2) {
         int n = str1.length(), m = str2.length();
         int j = 0; 
